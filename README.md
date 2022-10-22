@@ -1,8 +1,6 @@
-科学上网，白嫖节点，免费节点，免费梯子，免费vpn，免费v2ray，免费Trojan，免费SSR，每日更新  
-配合推荐工具测速后使用，效果更佳  
-程序自动收集节点，请勿滥用，更新时间 **2022-10-22T14:04:41+08:00**，已运行**235**天  
 
-### 推荐工具  
+
+
 Android平台支持连接多种协议，支持节点测速APP: [SSRRAY](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)  
 跨平台，多协议节点批量测速工具: [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest/releases)  
 ### 订阅地址  
